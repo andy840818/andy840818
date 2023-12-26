@@ -1,6 +1,6 @@
-嗨 我是HAO，<br>
+<strong>嗨 我是HAO，<br>
 從影視圈轉職挑戰工程師，樂於學習新知識，<br>
-期許自己可以成為一個強大的人！
+期許自己可以成為一個強大的人！</strong> 
 ## Skill
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
